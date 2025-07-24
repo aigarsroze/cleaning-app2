@@ -1,0 +1,5 @@
+
+<resources>
+    <string name="app_name">Cleaning App</string>
+    <string name="hello_world">Hello, Cleaning App!</string>
+</resources>
