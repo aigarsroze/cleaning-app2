@@ -1,3 +1,3 @@
 rootProject.name = "cleaningapp"
 include ':app'
-style: add newline at EOF in settings.gradle
+
