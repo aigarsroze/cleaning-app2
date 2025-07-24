@@ -1,3 +1,10 @@
-rootProject.name = "cleaningapp"
-include ':app'
+pluginManagement {
+    repositories {
+        google()
+        gradlePluginPortal()
+        mavenCentral()
+    }
+}
 
+rootProject.name = "cleaningapp"
+include(":app")
